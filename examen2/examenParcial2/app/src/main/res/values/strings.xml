@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">examenParcial2</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="click_login">click to login</string>
+    <string name="click_register">click to register</string>
+    <string name="hello_world">hello world</string>
+    <string name="exit">exit</string>
+</resources>
